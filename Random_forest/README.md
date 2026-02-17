@@ -3,6 +3,7 @@ Random Forest Classifier: Wine Fraud Detection 🍷🔍
 [
 [
 [
+dataset link : https://drive.google.com/file/d/1q89o1bEVy4mLcr464hC_4-r30V5JQIOz/view?usp=sharing
 
 Production-grade Random Forest detecting wine fraud (quality: Legit/Fraud) on UCI Wine dataset (6497 samples → 3812 after dedup, 12 features: fixed acidity, volatile acidity, density, etc.). 98.1% accuracy post-SMOTE balancing (743 Legit, 20 Fraud test)—ensemble power crushes baselines!
 ​
