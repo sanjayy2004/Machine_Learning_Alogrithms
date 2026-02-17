@@ -1,6 +1,6 @@
-# Machine Learning Regression Hands-on
+# Machine Learning alogorithms Hands-on
 
-This repository contains hands-on implementations of basic regression algorithms in Machine Learning. It is part of my learning journey.
+This repository contains hands-on implementations of machine learning algorithms in Machine Learning. It is part of my learning journey.
 
 The focus is on understanding concepts, implementing them, and evaluating results with real datasets.
 
@@ -9,6 +9,13 @@ The focus is on understanding concepts, implementing them, and evaluating result
 ## Hands-on Included
 - Simple Linear Regression
 - Logistic Regression
+- decision tree
+- randomforest
+- kmeans
+- pca
+- knn
+- timeseries
+- lda
 
 ---
 
@@ -22,7 +29,7 @@ The focus is on understanding concepts, implementing them, and evaluating result
 ---
 
 ## Learning Objectives
-- Understand regression concepts
+- Understand ML concepts
 - Implement models from scratch and with libraries
 - Evaluate model performance
 - Interpret results
