@@ -1,4 +1,4 @@
- Linear Discriminant Analysis (LDA) using the Digits dataset for supervised dimensionality reduction and digit classification, comparing LDA with Logistic Regression to achieve ~71% accuracy.
+ Linear Discriminant Analysis (LDA) using the Digits dataset (from sklearn.datasets import load_digits) for supervised dimensionality reduction and digit classification, comparing LDA with Logistic Regression to achieve ~71% accuracy.
 ​Overview
 The notebook loads 1797 8x8 pixel digit images (64 features, 10 classes), preprocesses with standardization, applies LDA to reduce to 2 components (n_classes-1=9 max, but uses 2), and evaluates classification performance.
 ​Key Steps Implemented
